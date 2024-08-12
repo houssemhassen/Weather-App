@@ -43,6 +43,7 @@ This Weather App is a simple web application that allows users to check the curr
 - The app will display an error message if the city name is not found.
 
 ## Screenshots
+![search bar](https://github.com/user-attachments/assets/d41def38-62db-4a29-8477-4d70e759eea3)
 
 ![app interface](https://github.com/user-attachments/assets/19ad72d7-fe0f-49ef-aa0e-139deb21a42d)
 ## License
