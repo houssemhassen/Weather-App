@@ -44,8 +44,7 @@ This Weather App is a simple web application that allows users to check the curr
 
 ## Screenshots
 
-![Weather App Screenshot](path/to/screenshot.png)
-
+![app interface](https://github.com/user-attachments/assets/19ad72d7-fe0f-49ef-aa0e-139deb21a42d)
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
